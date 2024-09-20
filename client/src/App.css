@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+table,th,td{
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+form{
+  background-color: aqua;
+  display: inline-block;
+  padding: 20px;
+}
+
+form label{
+  display: inline-block;
+  width: 100px;
+}
+
+form select{
+  width: 120px;
+}
+
+form div{
+  margin: 15px;
+}
